@@ -1,0 +1,65 @@
+.Body{
+    background-color:#F0F1EE ;
+    margin-top: 180px;
+}
+
+.BoxInfo{
+    margin-left: 100px;
+    padding-bottom: 100px;
+}
+
+.Title{
+    font-family: 'EB Garamond', sans-serif;
+    font-size: 64px;
+    font-weight: 700;
+    color: #354733;
+    padding-top: 10px;
+}
+.Span{
+    font-family: 'EB Garamond', sans-serif;
+    font-size: 64px;
+    font-weight: 700;
+    color: #8A9B6E;
+}
+.BoxText{
+    text-align: center;
+    margin-bottom: 96px;
+}
+
+.BoxCarousel{
+    padding-top: 72px;
+    padding-bottom: 96px;
+}
+
+@media (max-width: 1440px){
+    .BoxInfo{
+        margin-left: 50px;
+    }
+}
+
+@media (max-width: 1024px){
+    .BoxInfo{
+        margin-left: 25px;
+    }
+    .Title{
+        font-size: 50px;
+    }
+    .Span{
+        font-size: 50px;
+    }
+}
+
+@media (max-width: 425px){
+    .BoxInfo{
+        margin-left: 12px;
+    }
+    .Title{
+        font-size: 40px;
+    }
+    .Span{
+        font-size: 40px;
+    }
+    .BoxCarousel{
+        padding-top: 10px;
+    }
+}

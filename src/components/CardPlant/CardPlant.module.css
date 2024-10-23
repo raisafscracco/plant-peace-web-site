@@ -1,0 +1,64 @@
+.CardCody {
+    background-color: #F8F9FB;
+    max-width: 389px;
+}
+
+.boxCard{
+    margin-left: 32px;
+    
+}
+.NamePlant{
+    font-family: 'Lato',sans-serif;
+    color: #354733;
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 16px;
+    
+}
+.PricePlantDescont{
+    font-family: 'Ralewai', sans-serif;
+    color: #354733;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 7px;
+    
+}
+
+.PricePlant{
+    font-family: 'Ralewai', sans-serif;
+    color: #AFB2AA;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 7px;
+    margin-left: 16px;
+    text-decoration: line-through;
+}
+.PricePlantNotInSale{
+    font-family: 'Ralewai', sans-serif;
+    color: #354733;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 7px;
+}
+
+.boxLabel{
+    display: flex;
+    gap: 20px;
+    
+}
+
+.Label{
+    font-family: 'Ralewai', sans-serif;
+    color:  #8A9B6E;
+    font-size: 16px;
+    font-weight: 400;
+
+    background-color: #d8dfcd;
+    padding: 7px 13px;
+    width: 73.9px;
+    height: 38.85px;
+    border: 1px solid  #8A9B6E;
+    border-radius: 20px;
+    margin-top: 24px;
+    margin-bottom: 32px;
+}

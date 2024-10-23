@@ -1,0 +1,161 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+  }
+  
+  body {
+    background-color: #f0f1ee;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .playfair {
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .inter {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings: "slnt" 0;
+  }
+  
+  .raleway {
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: #808276;
+  }
+  
+  .pacifico {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    color: black;
+  }
+  
+  .ebgaramond {
+    font-family: "EB Garamond", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .section1 {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .introduction {
+    padding-top: 10%;
+    padding-left: 5%;
+    width: 37%;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .loveText {
+    display: flex;
+    gap: 2px;
+    align-items: center;
+    vertical-align: center;
+  }
+  
+  .line {
+    width: 32px;
+    height: 3px;
+    background-color: black;
+  }
+  
+  .cursive {
+    padding-bottom: 3%;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  body div h1 {
+    color: #354733;
+    padding-bottom: 3%;
+  }
+  
+  .title {
+    font-size: 64px;
+  }
+  
+  .diffColor {
+    color: #8a9b6e;
+  }
+  
+  .text {
+    color: #808276;
+    padding-bottom: 5%;
+  }
+  
+  .learn {
+    margin-top: 35%;
+    display: flex;
+    gap: 12px;
+    padding-bottom:10% ;
+  
+  }
+  
+  .learn:hover {
+    color: #354733;
+    cursor: pointer;
+  }
+  
+  .backgroundImage {
+    width: 50%;
+    height: auto;
+    right: 0px;
+    top: 0px;
+    z-index: -1;
+    filter: grayscale(100%);
+    mix-blend-mode: luminosity;
+  }
+  
+  @media only screen and (max-width: 1000px) {
+    .backgroundImage {
+      display: none;
+    }
+  
+    .introduction {
+      width: 85%;
+    }
+  }
+  
+  @media only screen and (max-width: 1174px) {
+    .leftPlant {
+      display: none;
+    }
+  
+    .learn {
+    
+      padding-bottom: 10% ;
+    
+    }
+  
+  }
+  
+  @media only screen and (max-width: 376px) {
+    .title {
+      font-size: 54px;
+    }
+  }
+  
+  .leftPlant {
+    position: absolute;
+    left: 0%;
+    padding-top: 14%;
+    z-index: -1;
+    filter: grayscale(100%);
+    mix-blend-mode: luminosity;
+  }

@@ -1,0 +1,89 @@
+.carouselContainer {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    margin: auto;
+  }
+  
+  .carousel {
+    display: flex;
+    transition: transform 0.5s ease;
+  }
+  
+  .carouselInner {
+    display: flex;
+    transition: transform 0.5s ease;
+    width: 100%;
+  }
+  
+  .carouselItem {
+    flex: 0 0 100%;
+    box-sizing: border-box;
+    padding: 0 10px;
+  }
+  
+ 
+  .carouselNext,  .carouselPrev{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #354733;
+    border: none;
+    cursor: pointer; 
+    z-index: 1;
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    font-size: 60px;
+  }
+  
+  .carouselPrev {
+    left: 10px;
+  }
+  
+  .carouselNext {
+    right: 10px;
+  }
+  
+  
+  @media (min-width: 1200px) {
+    /* Ajusta para mostrar 4 cards por vez */
+    .carouselItem {
+      flex: 0 0 25%; 
+    }
+  }
+  
+  @media (min-width: 800px) and (max-width: 1199px) {
+    /* Ajusta para mostrar 3 cards por vez */
+    .carouselItem {
+      flex: 0 0 33.33%; 
+    }
+  }
+  
+  @media (min-width: 600px) and (max-width: 799px) {
+    /* Ajusta para mostrar 2 cards por vez */
+    .carouselItem {
+      flex: 0 0 50%; 
+    }
+  }
+  
+  @media (max-width: 599px) {
+    /* Ajusta para mostrar 1 card por vez */
+    .carouselItem {
+      flex: 0 0 100%; 
+      padding: 0 5px;
+    }
+    .carouselPrev {
+        padding: 5px 15px;
+  }
+  .carouselNext{
+    padding: 5px 12px;
+  }
+  }
+  
+  @media (max-width: 375px) {
+    .carouselItem {
+      flex: 0 0 100%; 
+      padding: 0 2px;
+    }
+  }
+  

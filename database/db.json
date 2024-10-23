@@ -1,0 +1,124 @@
+{
+  "plants": [
+    {
+      "id": "1",
+      "name": "Echinocereus Cactus",
+      "subtitle": "A Majestic Addition to Your Plant Collection",
+      "label": [
+        "indoor",
+        "cactus"
+      ],
+      "price": "$139.99",
+      "isInSale": true,
+      "discountPercentage": 20,
+      "features": "Species: Echinocereus spp. Mature Size: Varies by species, typically ranging from 4 to 12 inches (10-30 cm) in height. Blooming Season: Typically spring or summer, with flowers lasting several days to weeks. Pot Size: Available in various pot sizes to suit your preference and needs. Shipping: Our Echinocereus Cacti are carefully packaged and shipped with the utmost care to ensure they arrive in excellent condition.",
+      "description": "Ladyfinger cactus (Echinocereus pentalophus) is also known as Alice, Devil's Fingers, and Dog Tail. It needs bright sunlight, light fertilizer, and is prone to root rot. The root system is shallow and weak. Aphids and mealybugs are also a danger. Avoiding wet soil can help with success with a ladyfinger cactus.",
+      "imgUrl": "../src/assets/img/CardImg/Photo.png"
+    },
+    {
+      "id": "2",
+      "name": "Ariocarpus Cactus",
+      "subtitle": "A Rare Gem for Cactus Enthusiasts",
+      "label": [
+        "indoor",
+        "cactus"
+      ],
+      "price": "$199.99",
+      "isInSale": false,
+      "discountPercentage": 0,
+      "features": "Species: Ariocarpus spp. Mature Size: Typically 2 to 6 inches (5-15 cm) in height. Blooming Season: Typically fall, with flowers lasting several days. Pot Size: Available in various pot sizes to suit your preference and needs. Shipping: Our Ariocarpus Cacti are carefully packaged and shipped with the utmost care to ensure they arrive in excellent condition.",
+      "description": "Ariocarpus cacti are known for their unique, low-growing rosettes and are often sought after by collectors. They thrive in bright sunlight and well-draining soil. Overwatering should be avoided to prevent root rot.",
+      "imgUrl": "../src/assets/img/CardImg/Photo (1).png"
+    },
+    {
+      "id": "3",
+      "name": "Astrophytum Cactus",
+      "subtitle": "Star-Shaped Beauty for Your Home",
+      "label": [
+        "indoor",
+        "cactus"
+      ],
+      "price": "$89.99",
+      "isInSale": true,
+      "discountPercentage": 15,
+      "features": "Species: Astrophytum spp. Mature Size: Typically 4 to 10 inches (10-25 cm) in height. Blooming Season: Typically spring or summer, with flowers lasting several days. Pot Size: Available in various pot sizes to suit your preference and needs. Shipping: Our Astrophytum Cacti are carefully packaged and shipped with the utmost care to ensure they arrive in excellent condition.",
+      "description": "Astrophytum cacti, often called star cacti, are known for their distinct shape and beautiful flowers. They require bright sunlight and well-draining soil. Regular, light watering is recommended, avoiding overwatering to prevent rot.",
+      "imgUrl": "../src/assets/img/CardImg/Photo (2).png"
+    },
+    {
+      "id": "4",
+      "name": "Gymnocalycium Cactus",
+      "subtitle": "A Vibrant Splash of Color",
+      "label": [
+        "indoor",
+        "cactus"
+      ],
+      "price": "$59.99",
+      "isInSale": true,
+      "discountPercentage": 10,
+      "features": "Species: Gymnocalycium spp. Mature Size: Typically 2 to 5 inches (5-13 cm) in height. Blooming Season: Typically summer, with flowers lasting several days to weeks. Pot Size: Available in various pot sizes to suit your preference and needs. Shipping: Our Gymnocalycium Cacti are carefully packaged and shipped with the utmost care to ensure they arrive in excellent condition.",
+      "description": "Gymnocalycium cacti, known for their colorful flowers and ribbed stems, are a favorite among indoor gardeners. They thrive in bright light and need well-draining soil. Watering should be done sparingly, allowing the soil to dry out completely between waterings.",
+      "imgUrl": "../src/assets/img/CardImg/Photo (3).png"
+    },
+    {
+      "id": "5",
+      "name": "Mammillaria Cactus",
+      "subtitle": "A Charming, Low-Maintenance Cactus",
+      "label": [
+        "indoor",
+        "cactus"
+      ],
+      "price": "$29.99",
+      "isInSale": true,
+      "discountPercentage": 5,
+      "features": "Species: Mammillaria spp. Mature Size: Typically 3 to 8 inches (8-20 cm) in height. Blooming Season: Typically spring and summer, with flowers lasting several days to weeks. Pot Size: Available in various pot sizes to suit your preference and needs. Shipping: Our Mammillaria Cacti are carefully packaged and shipped with the utmost care to ensure they arrive in excellent condition.",
+      "description": "Mammillaria cacti, often called pincushion cacti, are easy to care for and produce stunning flowers. They require bright light and well-draining soil. Watering should be infrequent, allowing the soil to dry completely between waterings to prevent rot.",
+      "imgUrl": "../src/assets/img/CardImg/Photo.png"
+    },
+    {
+      "id": "6",
+      "name": "Parodia Cactus",
+      "subtitle": "A Bright and Hardy Cactus",
+      "label": [
+        "indoor",
+        "cactus"
+      ],
+      "price": "$49.99",
+      "isInSale": false,
+      "discountPercentage": 0,
+      "features": "Species: Parodia spp. Mature Size: Typically 4 to 10 inches (10-25 cm) in height. Blooming Season: Typically spring and summer, with flowers lasting several days to weeks. Pot Size: Available in various pot sizes to suit your preference and needs. Shipping: Our Parodia Cacti are carefully packaged and shipped with the utmost care to ensure they arrive in excellent condition.",
+      "description": "Parodia cacti are known for their rounded shape and vibrant flowers. They thrive in bright light and well-draining soil. Watering should be done moderately, with the soil allowed to dry out between waterings to prevent root rot.",
+      "imgUrl": "../src/assets/img/CardImg/Photo (1).png"
+    },
+    {
+      "id": "5MOvwDi6",
+      "name": "teste ",
+      "subtitle": "planta teste",
+      "label": [
+        "Indoor",
+        "cacts"
+      ],
+      "price": "$100",
+      "isInSale": true,
+      "discountPercentage": "10",
+      "features": "testestte",
+      "description": "1",
+      "imgUrl": "../src/assets/img/CardImg/Photo (2).png"
+    },
+    {
+      "id": "T16whGop",
+      "name": "teste ",
+      "subtitle": "planta teste",
+      "label": [
+        "Indoor",
+        "cacts"
+      ],
+      "price": "$100",
+      "isInSale": true,
+      "discountPercentage": "10",
+      "features": "testestetsgetste",
+      "description": "afydcasjhcahjc",
+      "imgUrl": "../src/assets/img/CardImg/Photo (2).png"
+    }
+  ]
+}
