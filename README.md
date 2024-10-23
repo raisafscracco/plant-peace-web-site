@@ -68,7 +68,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Para acessar o site, siga este seguinte passo:
 
-- Clonar o projeto por meio desse comando: `git clone https://github.com/SilotoLucas/PlantPeace.git`
+- Clonar o projeto por meio desse comando: `git clone https://github.com/raisafscracco/plant-peace-web-site.git`
 - Instalar as dependências pelo terminal com o comando: `npm i`
 - Executar o database em um terminal separado com o comando `npm run database`
 - Executar o Projeto em um terminal separado com o camando `npm run dev`
