@@ -1,4 +1,4 @@
-# Desafio 1 - Programa de Bolsas
+# Desafio 2 - Programa de Bolsas
 
 Este projeto é sem fim comerciais ou lucrativos, tendo como foco principal nosso desenvolvimento profissional e aprendizagem de HTML, CSS, Tailwind, JavaScript, React, TypeScript e JSON. Este projeto foi idealizado pelos instrutores do Programa de Bolsas da Compass UOL para fins educacionais.
 - O protótipo do projeto pode ser encontrado [aqui](https://www.figma.com/design/kZhvfKrlaPXVUrzNkveave/Desafio-2?node-id=0%3A1&t=bmvX3E6V1onLhlev-1).
